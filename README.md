@@ -23,18 +23,20 @@ I'm a software developer who loves working with new technologies and exploring n
 
 <br/>
 
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/faizannazir) -->
+<div align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&hide=TeX&layout=compact" />
+  
+</div>
+
+<br/>
+
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=username.username)](https://github.com/faizannazir)
 [![Repos Badge](https://badges.pufler.dev/repos/username)](https://github.com/faizannazir)
 [![Forks Badge](https://badges.pufler.dev/forks/username)](https://github.com/faizannazir)
 [![Stars Badge](https://badges.pufler.dev/stars/username)](https://github.com/faizannazir)
 [![Followers Badge](https://img.shields.io/github/followers/username?style=social)](https://github.com/faizannazir?tab=followers)
+
 <hr />
-
-### My GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&hide=TeX&layout=compact)
