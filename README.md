@@ -13,11 +13,11 @@ I'm a software developer who loves working with new technologies and exploring n
 - ⚡ Fun fact: I love playing cricket and watching movies
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/faizannazir) -->
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=username.username)](https://github.com/username)
-[![Repos Badge](https://badges.pufler.dev/repos/username)](https://github.com/username)
-[![Forks Badge](https://badges.pufler.dev/forks/username)](https://github.com/username)
-[![Stars Badge](https://badges.pufler.dev/stars/username)](https://github.com/username)
-[![Followers Badge](https://img.shields.io/github/followers/username?style=social)](https://github.com/username?tab=followers)
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=username.username)](https://github.com/faizannazir)
+[![Repos Badge](https://badges.pufler.dev/repos/username)](https://github.com/faizannazir)
+[![Forks Badge](https://badges.pufler.dev/forks/username)](https://github.com/faizannazir)
+[![Stars Badge](https://badges.pufler.dev/stars/username)](https://github.com/faizannazir)
+[![Followers Badge](https://img.shields.io/github/followers/username?style=social)](https://github.com/faizannazir?tab=followers)
 
 
 
@@ -25,8 +25,8 @@ I'm a software developer who loves working with new technologies and exploring n
 
 ### My GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=username&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&hide=TeX&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&hide=TeX&layout=compact)
