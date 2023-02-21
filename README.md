@@ -1,7 +1,8 @@
 # Hi there, I'm [FaizanNazir](https://github.com/faizannazir) 👋
-<hr>
-I'm a software developer who loves working with new technologies and exploring new ways of solving problems. 
 
+<hr>
+
+I'm a software developer who loves working with new technologies and exploring new ways of solving problems. 
 
 - 🏢 I'm currently studying at [ARID University](https://www.uaar.edu.pk/index.php)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.py`, `.java`, `.kt`
@@ -23,20 +24,19 @@ I'm a software developer who loves working with new technologies and exploring n
 
 <br/>
 
-<div align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&hide=TeX&layout=compact" />
-  
-</div>
-
-<br/>
-
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=username.username)](https://github.com/faizannazir)
-[![Repos Badge](https://badges.pufler.dev/repos/username)](https://github.com/faizannazir)
-[![Forks Badge](https://badges.pufler.dev/forks/username)](https://github.com/faizannazir)
-[![Stars Badge](https://badges.pufler.dev/stars/username)](https://github.com/faizannazir)
-[![Followers Badge](https://img.shields.io/github/followers/username?style=social)](https://github.com/faizannazir?tab=followers)
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=faizannazir.faizannazir)
+![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
+![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
+![Stars Badge](https://badges.pufler.dev/stars/faizannazir)
+![Followers Badge](https://img.shields.io/github/followers/faizannazir?style=social)
 
 <hr />
+
+### My GitHub Stats
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizannazir" />
+</p>
+
+
