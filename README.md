@@ -25,9 +25,9 @@ I'm a software developer who loves working with new technologies and exploring n
 <br/>
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=faizannazir.faizannazir)
-![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
-![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
-![Stars Badge](https://badges.pufler.dev/stars/faizannazir)
+#![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
+#![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
+#![Stars Badge](https://badges.pufler.dev/stars/faizannazir)
 ![Followers Badge](https://img.shields.io/github/followers/faizannazir?style=social)
 
 <hr />
