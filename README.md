@@ -5,8 +5,8 @@
 I'm a software developer who loves working with new technologies and exploring new ways of solving problems. 
 
 - 🏢 I'm currently studying at [ARID University](https://www.uaar.edu.pk/index.php)
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.py`, `.java`, `.kt`
-- 💬 Ping me about `**Web Development**`, `**Python**`, `**Java**`, `**kotlin**`,`**Arduino**`,`**Android**`,`**Django**`,`**Open Source**`
+- ⚙️ I use : `.js`, `.html`, `.css`, `.py`, `.cs`,`.java`, `.kt`
+- 💬 Ping me about `**Web Development**`, `**Python**`, `**Java**`, `**kotlin**`,`**Arduino**`,`**Android**`,`**Django**`,`**Asp dot Net Core**`
 - 🔭 I’m currently learning new tools and technologies.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Reach me: [faizannazir289@gmail.com](mailto:faizannazir289@gmail.com)
