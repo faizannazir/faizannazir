@@ -5,7 +5,7 @@
 I'm a software developer who loves working with new technologies and exploring new ways of solving problems. 
 
 - 🏢 I'm currently studying at [ARID University](https://www.uaar.edu.pk/index.php)
-- ⚙️ I use : `.py``.js`, `.html`, `.css`, `.ino`, `.cs`,`.java`, `.kt`
+- ⚙️ I use : `.py`.js`, `.html`, `.css`, `.ino`, `.cs`,`.java`, `.kt`
 - 💬 Ping me about `**Web Development**`, `**Python**`, `**Javascript**`, `**kotlin**`,`**Arduino**`,`**Android**`,`**Django**`,`**React**`
 - 🔭 I’m currently learning new tools and technologies.
 - 💬 Ask me about anything, I am happy to help.
