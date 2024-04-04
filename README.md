@@ -19,16 +19,10 @@ I'm a software developer who loves working with new technologies and exploring n
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/faizannazir/
-[twitter]: https://twitter.com/faizi_CS
 
-<br/>
-
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=faizannazir.faizannazir)
-![Followers Badge](https://img.shields.io/github/followers/faizannazir?style=social)
-<!-- ![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
+ ![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
 #![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
-#![Stars Badge](https://badges.pufler.dev/stars/faizannazir) -->
+#![Stars Badge](https://badges.pufler.dev/stars/faizannazir) 
 
 
 <hr />
