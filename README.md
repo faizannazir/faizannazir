@@ -12,17 +12,11 @@ I'm a software developer who loves working with new technologies and exploring n
 - 📫 Reach me: [faizannazir289@gmail.com](mailto:faizannazir289@gmail.com)
 - ⚡ Fun fact: I love playing cricket and watching movies
 
-### Connect with me
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-
-<br />
 
 
  ![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
-#![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
-#![Stars Badge](https://badges.pufler.dev/stars/faizannazir) 
+![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
+![Stars Badge](https://badges.pufler.dev/stars/faizannazir) 
 
 
 <hr />
