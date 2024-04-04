@@ -13,12 +13,6 @@ I'm a software developer who loves working with new technologies and exploring n
 - ⚡ Fun fact: I love playing cricket and watching movies
 
 
-
- ![Repos Badge](https://badges.pufler.dev/repos/faizannazir)
-![Forks Badge](https://badges.pufler.dev/forks/faizannazir)
-![Stars Badge](https://badges.pufler.dev/stars/faizannazir) 
-
-
 <hr />
 
 ### My GitHub Stats
