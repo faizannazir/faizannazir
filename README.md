@@ -114,11 +114,11 @@ Here are some of my notable projects:
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| 🔧 [**Design Automation System**](https://github.com/faizannazir) | Autodesk Inventor automation with error handling and heartbeat monitoring | .NET Core, C#, Autodesk API |
-| 📦 [**JSON Compression Tool**](https://github.com/faizannazir) | High-performance compression achieving 90-95% size reduction | .NET Core, C#, Gzip |
-| ☁️ [**OneDrive Integration**](https://github.com/faizannazir) | Large file handling with OneDrive API | .NET Core, OneDrive API |
-| 🐛 [**Azure DevOps Bug Reporter**](https://github.com/faizannazir) | In-app bug reporting with automatic work item creation | .NET Core, Azure DevOps API |
-| 🌐 [**React Web Applications**](https://github.com/faizannazir) | Modern responsive web applications | React, JavaScript, CSS3 |
+| 🔧 [**Design Automation System**](https://github.com/faizannazir?tab=repositories) | Autodesk Inventor automation with error handling and heartbeat monitoring | .NET Core, C#, Autodesk API |
+| 📦 [**JSON Compression Tool**](https://github.com/faizannazir?tab=repositories) | High-performance compression achieving 90-95% size reduction | .NET Core, C#, Gzip |
+| ☁️ [**OneDrive Integration**](https://github.com/faizannazir?tab=repositories) | Large file handling with OneDrive API | .NET Core, OneDrive API |
+| 🐛 [**Azure DevOps Bug Reporter**](https://github.com/faizannazir?tab=repositories) | In-app bug reporting with automatic work item creation | .NET Core, Azure DevOps API |
+| 🌐 [**React Web Applications**](https://github.com/faizannazir?tab=repositories) | Modern responsive web applications | React, JavaScript, CSS3 |
 
 > 💡 **Explore my complete portfolio**: [GitHub Profile](https://github.com/faizannazir) | [Public Repositories](https://github.com/faizannazir?tab=repositories)
 
