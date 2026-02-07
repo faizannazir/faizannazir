@@ -2,7 +2,7 @@
   
 # 👋 Faizan Nazir
 
-### Software Developer | Full Stack Engineer | Problem Solver
+### .NET Core Developer | React Specialist | Full Stack Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizannazir/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizannazir)
@@ -14,72 +14,113 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer who loves working with cutting-edge technologies and finding innovative solutions to complex problems. With expertise across multiple programming languages and frameworks, I thrive in building scalable applications and contributing to meaningful projects.
+I'm a passionate Full Stack Developer specializing in **.NET Core** and **React** with a proven track record of delivering high-performance web applications. I excel at building scalable backend systems, optimizing performance, and creating interactive user interfaces. My expertise spans from backend development with C# and .NET Core to modern frontend frameworks like React and Knockout.js.
 
-- 🚀 Full Stack Developer specializing in Web & Mobile Development
+- 🚀 **Primary Focus**: .NET Core, C#, React, ASP.NET MVC
 - 🎓 Computer Science Student at [ARID University](https://www.uaar.edu.pk/index.php)
-- 💡 Always learning and exploring new technologies
+- ⚡ Performance optimization enthusiast (achieved 90-95% size reduction in production)
 - 🏏 Cricket enthusiast and movie buff in my free time
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Developer
-**Various Projects & Organizations** | *Multiple Domains*
+### Junior Software Engineer
+**[GreyBeard Outsourcing](https://www.linkedin.com/company/greybeard-outsourcing/)** | *Full-time*  
+📍 Islamabad, Pakistan (On-site) | 📅 Jul 2024 - Present
 
-- 🔹 Developed full-stack web applications using Django, React, and modern JavaScript frameworks
-- 🔹 Created Android applications with Kotlin and Java
-- 🔹 Built IoT solutions using Arduino and embedded systems
-- 🔹 Implemented responsive UI/UX designs with HTML5, CSS3, and JavaScript
-- 🔹 Contributed to open-source projects and collaborative development
+- **Backend Development**: Designed and implemented robust backend features using **.NET Core** and **C#**
+- **Frontend Enhancement**: Boosted frontend interactivity with **Knockout.js** and modern JavaScript
+- **Performance Optimization**: Achieved 90-95% size reduction in JSON data using gzip compression, resulting in 5-10× faster load times
+- **OneDrive Integration**: Led integration for large file handling, removing memory constraints and improving scalability
+- **Azure DevOps Excellence**: Consistently ranked as top contributor for bug fixes and task completion in 2024 and 2025
+- **Automation Pipeline**: Enhanced Autodesk Inventor automation with improved error handling, heartbeat implementation, and auto-email alerts
+- **Customer Support Tools**: Built in-app bug reporting tool integrated with Azure DevOps for automatic work item creation
+- **Translation System**: Optimized multilingual translation feature for faster processing and lower latency
+- **Mentoring**: Onboarded and mentored new developers through code walkthroughs and pair programming
+
+**Technologies**: .NET Core, C#, ASP.NET MVC, Knockout.js, Azure DevOps, OneDrive API, Autodesk Inventor API, JavaScript
+
+---
+
+### Freelance Software Engineer
+**[Fiverr](https://www.fiverr.com/)** | *Freelance*  
+📍 Remote | 📅 Nov 2022 - Present
+
+- Delivered custom web applications and software solutions for international clients
+- Specialized in .NET Core and React-based projects
+- Maintained 5-star ratings through quality delivery and excellent communication
+
+**Technologies**: .NET Core, React, JavaScript, Node.js
+
+---
+
+### Software Engineer
+**[Embeddronics](https://www.linkedin.com/company/embeddronics/)** | *Full-time*  
+📍 Rawalpindi, Punjab, Pakistan | 📅 Dec 2022 - Jun 2024
+
+- Developed full-stack web applications using Django and modern JavaScript frameworks
+- Built embedded systems and IoT solutions
+- Worked on hardware integration projects
+
+**Technologies**: Django, Embedded C++, Python, JavaScript, IoT, Arduino
+
+---
+
+### .NET Developer Intern
+**[SAUFIK Technologies](https://www.linkedin.com/company/saufik/)** | *Internship*  
+📍 Islamabad, Pakistan (On-site) | 📅 May 2023 - Jul 2023
+
+- Developed web applications using **.NET Core** and **ASP.NET MVC**
+- Gained hands-on experience in enterprise software development
+- Collaborated with senior developers on production projects
+
+**Technologies**: .NET Core, JavaScript, ASP.NET MVC, C#
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### Primary Technologies
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Technologies
+### Frontend Technologies
+![Knockout.js](https://img.shields.io/badge/Knockout.js-E42E16?style=for-the-badge&logo=knockout.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Mobile & IoT
+### Cloud & DevOps
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Additional Skills (Part-time/Past Projects)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Repositories
 
-<div align="center">
+### 📂 [View All Repositories](https://github.com/faizannazir?tab=repositories)
 
-### 📂 [Explore All My Repositories](https://github.com/faizannazir?tab=repositories)
+Here are some of my notable projects:
 
-</div>
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| 🔧 [**Design Automation System**](https://github.com/faizannazir) | Autodesk Inventor automation with error handling and heartbeat monitoring | .NET Core, C#, Autodesk API |
+| 📦 [**JSON Compression Tool**](https://github.com/faizannazir) | High-performance compression achieving 90-95% size reduction | .NET Core, C#, Gzip |
+| ☁️ [**OneDrive Integration**](https://github.com/faizannazir) | Large file handling with OneDrive API | .NET Core, OneDrive API |
+| 🐛 [**Azure DevOps Bug Reporter**](https://github.com/faizannazir) | In-app bug reporting with automatic work item creation | .NET Core, Azure DevOps API |
+| 🌐 [**React Web Applications**](https://github.com/faizannazir) | Modern responsive web applications | React, JavaScript, CSS3 |
 
-### Highlighted Work
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🌐 **Web Applications** | Full-stack web solutions with modern frameworks | Django, React, JavaScript |
-| 📱 **Mobile Apps** | Android applications for various use cases | Kotlin, Java, Android SDK |
-| 🤖 **IoT Projects** | Embedded systems and automation solutions | Arduino, C/C++ |
-| 💻 **Open Source** | Contributions to community projects | Various Technologies |
-
-> 💡 Visit my [GitHub Profile](https://github.com/faizannazir) to explore my complete portfolio of projects
+> 💡 **Explore my complete portfolio**: [GitHub Profile](https://github.com/faizannazir) | [Public Repositories](https://github.com/faizannazir?tab=repositories)
 
 ---
 
@@ -95,12 +136,8 @@ I'm a passionate software developer who loves working with cutting-edge technolo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizannazir&theme=radical" />
-
-</div>
-
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizannazir&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&layout=compact&theme=radical)
 
@@ -108,45 +145,65 @@ I'm a passionate software developer who loves working with cutting-edge technolo
 
 ---
 
-## 🤝 Let's Connect!
+## 💡 Areas of Expertise
 
-I'm always open to interesting conversations, collaboration opportunities, and new challenges. Feel free to reach out!
+**Backend Development**  
+.NET Core, C#, ASP.NET MVC, RESTful APIs, Microservices Architecture, Performance Optimization, Database Design
 
-<div align="center">
+**Frontend Development**  
+React, Knockout.js, JavaScript (ES6+), HTML5, CSS3, Responsive Design, Single Page Applications
 
-[![LinkedIn Profile](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizannazir/)
-[![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizannazir289@gmail.com)
-[![View GitHub](https://img.shields.io/badge/View_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizannazir)
+**DevOps & Cloud**  
+Azure DevOps, Azure Cloud Services, CI/CD Pipelines, Git Version Control, Automated Testing
 
-</div>
+**Performance Engineering**  
+Data Compression (Gzip), Memory Optimization, Query Optimization, Caching Strategies, Load Time Reduction
+
+**Integration & APIs**  
+OneDrive API, Autodesk Inventor API, Azure DevOps API, RESTful API Design, Third-party Integration
+
+**Software Engineering**  
+Bug Fixing & Debugging, Code Review, System Architecture, Automated Testing, Technical Documentation, Mentoring
+
+**Additional Skills**  
+Django (Python), Embedded Systems (Arduino, C++), Mobile Development (Android), IoT Solutions
 
 ---
 
-## 💬 Areas of Expertise
+## 🏆 Key Achievements
 
-```javascript
-const expertise = {
-    webDevelopment: ["Django", "React", "JavaScript", "HTML5", "CSS3"],
-    mobileDevelopment: ["Android", "Kotlin", "Java"],
-    languages: ["Python", "JavaScript", "Java", "Kotlin", "C#"],
-    iot: ["Arduino", "Embedded Systems"],
-    databases: ["SQL", "NoSQL"],
-    tools: ["Git", "GitHub", "VS Code"],
-    softSkills: ["Problem Solving", "Team Collaboration", "Continuous Learning"]
-};
-```
+- 🥇 **Top Azure DevOps Contributor** - Led the board in 2024 and 2025 for bug fixes and issue resolution
+- ⚡ **Performance Champion** - Achieved 5-10× faster load times through compression optimization
+- 📦 **Data Optimization Expert** - Reduced file sizes by 90-95% in production environment
+- 🔧 **Automation Specialist** - Improved design automation pipeline reliability and speed
+- 🎯 **Customer Satisfaction** - Reduced support response times through automation tools
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new projects, technical challenges, and collaboration opportunities!
+
+<div align="center">
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizannazir/)
+[![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizannazir289@gmail.com)
+[![View GitHub](https://img.shields.io/badge/View_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizannazir)
+[![Fiverr Profile](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+
+</div>
 
 ---
 
 <div align="center">
 
 ### ⚡ Fun Fact
-When I'm not coding, you'll find me playing cricket �� or watching movies 🎬!
+When I'm not optimizing code performance, you'll find me playing cricket 🏏 or watching movies 🎬!
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faizannazir&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting! Happy coding! 🚀**
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
