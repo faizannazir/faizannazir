@@ -47,11 +47,14 @@ I'm a passionate Full Stack Developer specializing in **.NET Core** and **React*
 **[Fiverr](https://www.fiverr.com/faizannazir290)** | *Freelance*  
 📍 Remote | 📅 Nov 2022 - Present
 
-- Delivered custom web applications and software solutions for international clients
-- Specialized in .NET Core and React-based projects
+- Delivered custom web applications, mobile solutions, and embedded systems firmware for international clients
+- Specialized in .NET Core, React, web development (WordPress, Wix), and embedded systems (ESP32, Arduino, NRF, STM32)
+- Developed mobile applications for iOS and Android platforms
+- Created firmware solutions for IoT devices and embedded systems
+- Built and customized WordPress and Wix websites for various clients
 - Maintained 5-star ratings through quality delivery and excellent communication
 
-**Technologies**: .NET Core, React, JavaScript, Node.js
+**Technologies**: .NET Core, React, JavaScript, Node.js, WordPress, Wix, ESP32, Arduino, NRF, STM32, Mobile Development (iOS/Android), Embedded C/C++
 
 ---
 
@@ -59,11 +62,13 @@ I'm a passionate Full Stack Developer specializing in **.NET Core** and **React*
 **[Embeddronics](https://www.linkedin.com/company/embeddronics/)** | *Full-time*  
 📍 Rawalpindi, Punjab, Pakistan | 📅 Dec 2022 - Jun 2024
 
-- Developed full-stack web applications using Django and modern JavaScript frameworks
-- Built embedded systems and IoT solutions
-- Worked on hardware integration projects
+- Developed full-stack web applications using Django and modern JavaScript frameworks with primary focus on web and firmware development
+- Built custom WordPress and Wix websites for clients prioritizing web presence
+- Created embedded systems firmware for ESP32, Arduino, NRF, and STM32 microcontrollers
+- Developed IoT solutions and hardware integration projects
+- Worked on firmware development for drones and embedded systems
 
-**Technologies**: Django, Embedded C++, Python, JavaScript, IoT, Arduino
+**Technologies**: Django, Embedded C/C++, Python, JavaScript, WordPress, Wix, IoT, ESP32, Arduino, NRF, STM32
 
 ---
 
@@ -103,6 +108,10 @@ I'm a passionate Full Stack Developer specializing in **.NET Core** and **React*
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
 
@@ -140,21 +149,21 @@ I work on various projects ranging from enterprise applications to open-source c
 
 ### 📊 Profile Stats
 
-![](https://github-readme-stats.vercel.app/api?username=faizannazir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=faizannazir&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizannazir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizannazir&theme=radical&hide_border=true)
 
 ### 💻 Contribution Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizannazir&theme=radical)
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizannazir&theme=radical)
 
 ### 🔥 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&include_all_commits=true)
 
 ### 📌 GitHub Metrics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizannazir&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizannazir&theme=radical)
+![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizannazir&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizannazir&theme=radical&utcOffset=5)
 
 </div>
 
@@ -181,7 +190,7 @@ OneDrive API, Autodesk Inventor API, Azure DevOps API, RESTful API Design, Third
 Bug Fixing & Debugging, Code Review, System Architecture, Automated Testing, Technical Documentation, Mentoring
 
 **Additional Skills**  
-Django (Python), Embedded Systems (Arduino, C++), Mobile Development (Android), IoT Solutions
+Django (Python), Embedded Systems (ESP32, Arduino, NRF, STM32, C/C++), Mobile Development (iOS/Android), IoT Solutions, WordPress, Wix, Firmware Development
 
 ---
 
