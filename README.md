@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer specializing in **.NET Core** and **React*
 ---
 
 ### Freelance Software Engineer
-**[Fiverr](https://www.fiverr.com/)** | *Freelance*  
+**[Fiverr](https://www.fiverr.com/faizannazir290)** | *Freelance*  
 📍 Remote | 📅 Nov 2022 - Present
 
 - Delivered custom web applications and software solutions for international clients
@@ -106,21 +106,19 @@ I'm a passionate Full Stack Developer specializing in **.NET Core** and **React*
 
 ---
 
-## 🚀 Featured Projects & Repositories
+## 🚀 Projects & Open Source
 
-### 📂 [View All Repositories](https://github.com/faizannazir?tab=repositories)
+I work on various projects ranging from enterprise applications to open-source contributions. While much of my professional work is proprietary and private, I actively contribute to and maintain public repositories.
 
-Here are some of my notable projects:
+### 📂 [Explore My GitHub Repositories](https://github.com/faizannazir?tab=repositories)
 
-| Repository | Description | Tech Stack |
-|------------|-------------|------------|
-| 🔧 [**Design Automation System**](https://github.com/faizannazir?tab=repositories) | Autodesk Inventor automation with error handling and heartbeat monitoring | .NET Core, C#, Autodesk API |
-| 📦 [**JSON Compression Tool**](https://github.com/faizannazir?tab=repositories) | High-performance compression achieving 90-95% size reduction | .NET Core, C#, Gzip |
-| ☁️ [**OneDrive Integration**](https://github.com/faizannazir?tab=repositories) | Large file handling with OneDrive API | .NET Core, OneDrive API |
-| 🐛 [**Azure DevOps Bug Reporter**](https://github.com/faizannazir?tab=repositories) | In-app bug reporting with automatic work item creation | .NET Core, Azure DevOps API |
-| 🌐 [**React Web Applications**](https://github.com/faizannazir?tab=repositories) | Modern responsive web applications | React, JavaScript, CSS3 |
+**Areas of Work:**
+- 🔧 **Enterprise Applications**: .NET Core backend systems, React frontends, performance optimization
+- 🌐 **Web Development**: Full-stack applications with modern frameworks
+- 🤖 **Automation & Integration**: API integrations, workflow automation
+- 💻 **Open Source**: Community contributions and personal projects
 
-> 💡 **Explore my complete portfolio**: [GitHub Profile](https://github.com/faizannazir) | [Public Repositories](https://github.com/faizannazir?tab=repositories)
+> 💡 **Visit my profile to see my public work**: [GitHub Profile](https://github.com/faizannazir) | [Public Repositories](https://github.com/faizannazir?tab=repositories)
 
 ---
 
@@ -136,10 +134,27 @@ Here are some of my notable projects:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizannazir&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizannazir&theme=radical)
+### 📈 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizannazir&theme=react-dark&hide_border=true&area=true)
+
+### 📊 Profile Stats
+
+![](https://github-readme-stats.vercel.app/api?username=faizannazir&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=faizannazir&theme=radical&hide_border=true)
+
+### 💻 Contribution Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizannazir&theme=radical)
+
+### 🔥 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizannazir&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### 📌 GitHub Metrics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizannazir&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizannazir&theme=radical)
 
 </div>
 
@@ -189,7 +204,7 @@ I'm always open to discussing new projects, technical challenges, and collaborat
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizannazir/)
 [![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizannazir289@gmail.com)
 [![View GitHub](https://img.shields.io/badge/View_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizannazir)
-[![Fiverr Profile](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+[![Fiverr Profile](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faizannazir290)
 
 </div>
 
