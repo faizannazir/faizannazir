@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full Stack Engineer focused on building **scalable backend systems**, **high-performance web apps**, and **embedded platforms**.
+I’m a Full Stack Engineer focused on building **scalable backend systems**, **high-performance applications**, and **cross-platform + embedded solutions**.
 
 - ⚡ .NET Core & C# backend specialist  
 - ⚛️ React & modern frontend development  
@@ -22,8 +22,8 @@ I’m a Full Stack Engineer focused on building **scalable backend systems**, **
 - 🧠 Strong focus on performance, architecture & clean code  
 
 🎯 Currently building:
-- 🚀 **ESP32OS** — an open-source operating system for ESP32  
-- 🔧 Developer tools & automation systems  
+- 🚀 ESP32OS — an open-source operating system for ESP32  
+- 🔗 Cross-platform bridges & developer tools  
 
 ---
 
@@ -32,36 +32,48 @@ I’m a Full Stack Engineer focused on building **scalable backend systems**, **
 ### 🔥 ESP32OS (Active Project)
 > A lightweight operating system for ESP32 focused on modularity and performance.
 
-- Task scheduling & system abstraction
-- Designed for IoT & embedded developers
-- Open for contributors
+- Task scheduling & system abstraction  
+- Designed for IoT & embedded developers  
+- Open for contributors  
 
-👉 **Check it out & contribute:**  
-https://github.com/faizannazir/Esp32OS
+👉 https://github.com/faizannazir/Esp32OS  
+
+---
+
+### 🔗 MacOsDroidBridgeFlutter
+> A cross-platform bridge connecting macOS and Android using Flutter.
+
+- Enables communication between platforms  
+- Built using Flutter’s cross-platform capabilities
+
+👉 https://github.com/faizannazir/MacOsDroidBridgeFlutter  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend**
-- .NET Core, C#, ASP.NET MVC, REST APIs
+- .NET Core, C#, ASP.NET MVC, REST APIs  
 
 **Frontend**
-- React, JavaScript, HTML, CSS
+- React, JavaScript, HTML, CSS  
 
 **Embedded / IoT**
-- ESP32, STM32, Arduino, Embedded C/C++
+- ESP32, STM32, Arduino, Embedded C/C++  
+
+**Cross-Platform**
+- Flutter (Android, macOS, integrations)  
 
 **DevOps**
-- Azure, CI/CD, Git
+- Azure, CI/CD, Git  
 
 ---
 
 ## 💡 What I Like Building
 
-- ⚙️ Systems & architectures  
+- 🔗 Cross-platform integrations  
 - 🚀 Performance-critical applications  
-- 🔌 Embedded + software integrations  
+- 🔌 Embedded + software ecosystems  
 - 🧩 Developer tools & frameworks  
 
 ---
@@ -69,16 +81,28 @@ https://github.com/faizannazir/Esp32OS
 ## 📂 Projects
 
 👉 Explore my work:  
-https://github.com/faizannazir?tab=repositories
+https://github.com/faizannazir?tab=repositories  
+
+---
+
+## 🧲 Looking for Contributors
+
+I’m actively looking for developers interested in:
+
+- Embedded systems  
+- ESP32 development  
+
+👉 Start here:  
+https://github.com/faizannazir/Esp32OS/issues  
 
 ---
 
 ## 🤝 Let’s Collaborate
 
 I’m open to:
-- Open source collaboration
-- Interesting system design problems
-- Embedded + software projects
+- Open source collaboration  
+- System design discussions  
+- Embedded + software projects  
 
 ---
 
