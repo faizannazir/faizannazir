@@ -40,16 +40,6 @@ I’m a Full Stack Engineer focused on building **scalable backend systems**, **
 
 ---
 
-### 🔗 MacOsDroidBridgeFlutter
-> A cross-platform bridge connecting macOS and Android using Flutter.
-
-- Enables communication between platforms  
-- Built using Flutter’s cross-platform capabilities
-
-👉 https://github.com/faizannazir/MacOsDroidBridgeFlutter  
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend**
