@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta
+      name="description"
+      content="Faizan Nazir — full-stack engineer connecting .NET, React, Next.js, local AI, and embedded systems. Projects, career, and an interactive tech playground."
+    />
+    <meta name="theme-color" content="#091421" />
+    <meta
+      property="og:title"
+      content="Faizan Nazir | Software meets hardware"
+    />
+    <meta
+      property="og:description"
+      content="From an API response to a GPIO pin. Explore my work and play with my stack."
+    />
+    <meta property="og:type" content="website" />
+    <title>Faizan Nazir | Software meets hardware</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23091421'/%3E%3Ctext x='32' y='43' text-anchor='middle' fill='%2385e0e0' font-size='32' font-family='monospace'%3EFN%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" type="module"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <div class="scroll-progress" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="wordmark" href="#home" aria-label="Faizan Nazir home"
+        >f<span>:</span>n<small>software × hardware</small></a
+      >
+      <nav aria-label="Main navigation">
+        <a href="#projects">Work</a><a href="#career">Career</a
+        ><a href="#playground">Play</a><a href="#contact">Connect</a>
+      </nav>
+      <button id="motion-toggle" hidden>Pause motion</button>
+    </header>
+    <main id="main">
+      <section class="hero section" id="home" aria-labelledby="hero-title">
+        <div>
+          <p class="intro">Hi, I'm Faizan Nazir.</p>
+          <h1 id="hero-title">
+            Software<br />meets<br />hardware<span>.</span>
+          </h1>
+          <p class="hero-description">
+            I build the connections. From .NET backends and React/Next.js
+            interfaces to local AI tools and the microcontrollers underneath.
+          </p>
+          <div class="hero-links">
+            <a class="button primary" href="#projects">Explore my work</a
+            ><a class="text-link" href="https://github.com/faizannazir"
+              >GitHub / faizannazir</a
+            >
+          </div>
+          <div class="hero-facts">
+            <span>Based in Rawalpindi, Pakistan</span
+            ><span>Software Engineer @ GreyBeard</span>
+          </div>
+        </div>
+        <div
+          class="system-art"
+          aria-label="Illustration connecting a software terminal to an embedded chip"
+        >
+          <div class="board-grid" aria-hidden="true"></div>
+          <div class="terminal-window">
+            <div class="terminal-bar">
+              <span class="terminal-dots" aria-hidden="true">● ● ●</span
+              ><span>faizan@workbench</span><span>~/build</span>
+            </div>
+            <div class="terminal-body">
+              <p><span class="prompt">❯</span> dotnet build connections</p>
+              <p class="muted">Restoring ideas...</p>
+              <p>
+                <span class="terminal-label">software</span> C# / React /
+                TypeScript
+              </p>
+              <p>
+                <span class="terminal-label">hardware</span> ESP32 / STM32 / IoT
+              </p>
+              <p class="success">
+                Build succeeded. Let's make it real.<span
+                  class="cursor"
+                  aria-hidden="true"
+                  >▌</span
+                >
+              </p>
+            </div>
+          </div>
+          <svg
+            class="traces"
+            viewBox="0 0 600 500"
+            fill="none"
+            aria-hidden="true"
+          >
+            <path d="M80 230v90h160v50h100M490 220v70h-80v80h-70M300 215v155" />
+            <path
+              class="signal"
+              d="M80 230v90h160v50h100M490 220v70h-80v80h-70M300 215v155"
+            />
+          </svg>
+          <div class="chip" aria-hidden="true">
+            <div><span>FN</span><small>builder / engineer</small></div>
+          </div>
+          <div class="board-note">Software in. Real-world impact out.</div>
+        </div>
+      </section>
+      <section class="now-strip section" aria-label="Current focus">
+        <strong><i aria-hidden="true"></i>On my workbench</strong>
+        <p>
+          Local AI tooling, embedded operating environments, and a calmer
+          Android home.
+        </p>
+        <span class="muted">November 2026</span>
+      </section>
+      <section
+        class="section projects-section"
+        id="projects"
+        aria-labelledby="projects-title"
+      >
+        <div class="section-heading reveal">
+          <div>
+            <p class="kicker">Things I've been building</p>
+            <h2 id="projects-title">From idea to working system.</h2>
+          </div>
+          <a
+            class="text-link"
+            href="https://github.com/faizannazir?tab=repositories"
+            >All repositories</a
+          >
+        </div>
+        <article class="project project-feature reveal" data-repo="localcoder">
+          <div class="project-copy">
+            <span class="category">Local AI / Developer tooling</span>
+            <h3>LocalCoder</h3>
+            <p>
+              An AI coding agent that runs on your machine. Search a repository,
+              edit code, run checks, and undo changes from your terminal or
+              editor.
+            </p>
+            <p>
+              Hardware-aware routing. One planner, coder, or reviewer loaded at
+              a time.
+            </p>
+            <ul class="tags" aria-label="Technologies">
+              <li>TypeScript</li>
+              <li>llama.cpp</li>
+              <li>GGUF</li>
+              <li>SQLite</li>
+            </ul>
+            <a class="button" href="https://github.com/faizannazir/localcoder"
+              >Explore LocalCoder</a
+            >
+            <p class="repo-meta">Open source on GitHub</p>
+          </div>
+          <div
+            class="project-art code-art"
+            aria-label="Illustrative LocalCoder command sequence"
+          >
+            <div class="art-header">localcoder / terminal</div>
+            <pre><span class="prompt">❯</span> localcoder index .
+<span class="code-comment">  Know the codebase.</span>
+
+<span class="prompt">❯</span> localcoder agent "Fix the parser"
+<span class="code-comment">  Plan → edit → verify.</span>
+
+<span class="prompt">❯</span> localcoder undo
+<span class="code-comment">  Experiment. Keep control.</span></pre>
+            <div class="model-slots">
+              <span>Planner</span><span>Coder</span><span>Reviewer</span>
+            </div>
+          </div>
+        </article>
+        <div class="project-pair">
+          <article class="project reveal" data-repo="Esp32OS">
+            <div class="mini-art hardware-art" aria-hidden="true">
+              <span class="circuit-line"></span
+              ><span class="circuit-line c2"></span
+              ><span class="circuit-line c3"></span>
+              <div class="mini-chip">
+                ESP32<small>ESP-IDF + FreeRTOS</small>
+              </div>
+              <i class="board-led"></i><code>uart → shell → hardware</code>
+            </div>
+            <div class="project-copy">
+              <span class="category">Embedded systems / IoT</span>
+              <h3>ESP32OS</h3>
+              <p>
+                A Linux-style operating environment for ESP32. Shell commands,
+                task management, peripheral diagnostics, networking, and an
+                optional web dashboard.
+              </p>
+              <ul class="tags" aria-label="Technologies">
+                <li>C</li>
+                <li>ESP-IDF</li>
+                <li>FreeRTOS</li>
+              </ul>
+              <a class="text-link" href="https://github.com/faizannazir/Esp32OS"
+                >Explore ESP32OS</a
+              >
+              <p class="repo-meta">Open source on GitHub</p>
+            </div>
+          </article>
+          <article class="project reveal" data-repo="Aether-Launcher">
+            <div class="mini-art android-art" aria-hidden="true">
+              <div class="phone">
+                <i class="camera"></i><span class="phone-clock">09:41</span
+                ><span class="phone-greeting">Make room for focus.</span>
+                <div class="phone-apps">
+                  <i></i><i></i><i></i><i></i><i></i><i></i>
+                </div>
+                <div class="phone-dock"><i></i><i></i><i></i><i></i></div>
+              </div>
+              <span class="art-caption">Interface illustration</span>
+            </div>
+            <div class="project-copy">
+              <span class="category">Native Android / Product experience</span>
+              <h3>Aether Launcher</h3>
+              <p>
+                A clean Android home with a searchable app drawer, floating
+                dock, flexible pages, and native system integrations. Built in
+                Kotlin with Jetpack Compose.
+              </p>
+              <ul class="tags" aria-label="Technologies">
+                <li>Kotlin</li>
+                <li>Jetpack Compose</li>
+                <li>Android</li>
+              </ul>
+              <a
+                class="text-link"
+                href="https://github.com/faizannazir/Aether-Launcher"
+                >Explore Aether</a
+              >
+              <p class="repo-meta">Open source on GitHub</p>
+            </div>
+          </article>
+        </div>
+        <div class="github-refresh">
+          <p id="github-status" class="muted" aria-live="polite">
+            Project descriptions verified November 2026.
+          </p>
+          <button id="refresh-github" hidden>Refresh GitHub activity</button>
+        </div>
+      </section>
+      <section
+        class="career-section section"
+        id="career"
+        aria-labelledby="career-title"
+      >
+        <div class="career-intro reveal">
+          <p class="kicker">Experience</p>
+          <h2 id="career-title">
+            One foot in code.<br />One in the real world.
+          </h2>
+          <p>
+            I work across application development, backend integrations,
+            performance, and embedded engineering.
+          </p>
+          <a class="text-link" href="https://www.linkedin.com/in/faizannazir/"
+            >Full career on LinkedIn</a
+          >
+          <div class="education">
+            <span class="muted">Education</span
+            ><strong>Arid Agriculture University</strong><span>2019–2023</span>
+          </div>
+        </div>
+        <div class="timeline">
+          <article class="career-item reveal">
+            <p class="career-date">July 2024 — Present <span>Current</span></p>
+            <h3>Software Engineer</h3>
+            <p class="employer">
+              GreyBeard Outsourcing <small>Islamabad · On-site</small>
+            </p>
+            <ul>
+              <li>
+                Build and maintain C#/.NET application functionality and
+                integrations.
+              </li>
+              <li>Integrate in-app issue reporting with Azure DevOps.</li>
+              <li>
+                Optimize JSON handling and investigate processing bottlenecks.
+              </li>
+              <li>
+                Troubleshoot authentication, APIs, SQL, and cross-tenant access.
+              </li>
+            </ul>
+          </article>
+          <article class="career-item reveal">
+            <p class="career-date">
+              November 2022 — Present <span>Freelance</span>
+            </p>
+            <h3>Freelance Software Engineer</h3>
+            <p class="employer">Fiverr <small>Remote</small></p>
+            <p>
+              Independent software engineering work alongside my full-time
+              engineering career.
+            </p>
+          </article>
+          <article class="career-item reveal">
+            <p class="career-date">December 2022 — June 2024</p>
+            <h3>Software Engineer</h3>
+            <p class="employer">Embeddronics <small>Rawalpindi</small></p>
+            <p>
+              Application development, microcontrollers and firmware,
+              hardware–software integration, prototyping, debugging, and
+              functional testing.
+            </p>
+          </article>
+          <article class="career-item reveal">
+            <p class="career-date">May 2023 — July 2023</p>
+            <h3>Dotnet Developer Intern</h3>
+            <p class="employer">SAUFIK <small>Islamabad · On-site</small></p>
+            <p>
+              Worked with .NET Core, JavaScript, and web application
+              technologies.
+            </p>
+          </article>
+        </div>
+      </section>
+      <section
+        class="playground-section section"
+        id="playground"
+        aria-labelledby="playground-title"
+      >
+        <div class="section-heading reveal">
+          <div>
+            <p class="kicker">A hands-on stack</p>
+            <h2 id="playground-title">A stack you can get your hands on.</h2>
+          </div>
+          <span class="muted playground-note"
+            >Real physics. No broken hardware.</span
+          >
+        </div>
+        <p id="playground-help" class="muted">
+          Scroll in. Let the stack drop. Grab and throw a ball. Tap one to kick
+          it. With a keyboard, Tab to a ball, use arrow keys to move, or press
+          Enter to kick.
+        </p>
+        <div
+          class="arena"
+          id="arena"
+          role="group"
+          aria-label="Interactive technology balls"
+          aria-describedby="playground-help"
+        >
+          <noscript
+            ><p>
+              C#, .NET, React, Next.js, TypeScript, C++, ESP32, SQL, Flutter,
+              Python, Git, Kotlin, and Arduino. Enable JavaScript to play with
+              the tech balls.
+            </p></noscript
+          >
+        </div>
+        <p id="playground-status" class="sr-only" aria-live="polite"></p>
+        <div class="stack-notes">
+          <p>
+            <strong>Applications & backends</strong>C# · .NET · React · Next.js
+            · SQL · REST APIs
+          </p>
+          <p>
+            <strong>Devices & firmware</strong>ESP32 · STM32 · C/C++ · Arduino ·
+            FreeRTOS
+          </p>
+          <p>
+            <strong>Tools & platforms</strong>Azure DevOps · Git · Flutter ·
+            Kotlin · Python
+          </p>
+        </div>
+      </section>
+      <section
+        class="about-section section reveal"
+        aria-labelledby="about-title"
+      >
+        <p class="kicker">How I work</p>
+        <h2 id="about-title">Curious about the whole system.</h2>
+        <div class="about-columns">
+          <p>
+            I like the places where technologies meet: an API talking to an
+            application, a model running within a machine's memory budget, or
+            firmware making sense of a sensor.
+          </p>
+          <p>
+            My focus is practical: understand the bottleneck, make the behavior
+            reliable, and leave the implementation easier to maintain. That's
+            the thread between my backend work and my hardware projects.
+          </p>
+        </div>
+      </section>
+      <section class="ai-section section reveal" aria-labelledby="ai-title">
+        <p class="kicker">AI engineering &amp; developer tools</p>
+        <h2 id="ai-title">Build the tools.<br />Then build with them.</h2>
+        <div class="about-columns">
+          <div>
+            <h3>AI tools &amp; MCP</h3>
+            <p>
+              I build AI coding tools, local model workflows, and MCP servers
+              and integrations that connect assistants to useful tools and
+              project context. LocalCoder brings that interest into an
+              open-source terminal and editor workflow.
+            </p>
+            <a
+              class="text-link"
+              href="https://github.com/faizannazir/localcoder"
+              >See LocalCoder</a
+            >
+          </div>
+          <div>
+            <h3>My coding workflow</h3>
+            <p>
+              I use <strong>Codex, Claude Code, and Cursor</strong> to explore
+              codebases, build features, debug, and review changes. The
+              engineering work still comes down to understanding the system and
+              checking the result.
+            </p>
+            <ul class="tags" aria-label="AI development tools">
+              <li>Codex</li>
+              <li>Claude Code</li>
+              <li>Cursor</li>
+              <li>MCP</li>
+              <li>Local AI</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section
+        class="contact-section section reveal"
+        id="contact"
+        aria-labelledby="contact-title"
+      >
+        <p class="kicker">Open to collaboration</p>
+        <h2 id="contact-title">Have something<br />worth building?</h2>
+        <p>
+          Let's talk about .NET, developer tools, connected devices, or the
+          interesting problem between them.
+        </p>
+        <a class="contact-email" href="mailto:faizannazir289@gmail.com"
+          >faizannazir289@gmail.com</a
+        >
+        <div class="contact-links">
+          <a href="https://www.linkedin.com/in/faizannazir/">LinkedIn</a
+          ><a href="https://github.com/faizannazir">GitHub</a
+          ><a href="https://github.com/faizannazir/Esp32OS/issues"
+            >Contribute to ESP32OS</a
+          >
+        </div>
+      </section>
+    </main>
+    <footer class="section">
+      <span>Faizan Nazir / Software × Hardware</span
+      ><span>Content updated November 2026</span><a href="#home">Back to top</a>
+    </footer>
+  </body>
+</html>
