@@ -1,103 +1,82 @@
 <div align="center">
-  
-# 👋 Faizan Nazir
 
-### Full Stack Engineer | .NET • React • Embedded Systems
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
+  <img src="assets/banner.gif" alt="Faizan Nazir — from cloud to microcontrollers" width="100%">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizannazir/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizannazir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizannazir289@gmail.com)
+# Hi, I'm Faizan Nazir
+
+### Full-Stack Engineer · .NET · React · Next.js · Embedded Systems & IoT
+
+Building reliable software that connects **applications, services, and hardware**.
+
+**[Explore my interactive portfolio](https://faizannazir.github.io/faizannazir/)** · [LinkedIn](https://www.linkedin.com/in/faizannazir/) · [Email](mailto:faizannazir289@gmail.com)
 
 </div>
 
----
+## A little about me
 
-## 👨‍💻 About Me
+I'm a software engineer based in **Rawalpindi, Pakistan**, working across C#/.NET backends, React/Next.js applications, and connected devices. I care about practical architecture, application performance, and making complex systems easier to work with.
 
-I’m a Full Stack Engineer focused on building **scalable backend systems**, **high-performance applications**, and **cross-platform + embedded solutions**.
+- **At work:** Software Engineer at **GreyBeard Outsourcing**, since July 2024.
+- **In open source:** local AI developer tools, ESP32 systems, and native Android experiences, MCP integrations, and AI tool building.
+- **Across the stack:** REST APIs, SQL, authentication, Azure DevOps, firmware, and hardware–software integration.
+- **Let's connect:** open-source collaboration, backend architecture, and embedded projects.
 
-- ⚡ .NET Core & C# backend specialist  
-- ⚛️ React & modern frontend development  
-- 🔌 Embedded systems (ESP32, STM32, IoT)  
-- 🧠 Strong focus on performance, architecture & clean code  
+## My stack, with a little momentum
 
-🎯 Currently building:
-- 🚀 ESP32OS — an open-source operating system for ESP32  
-- 🔗 Cross-platform bridges & developer tools  
+<a href="https://faizannazir.github.io/faizannazir/#playground">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-balls.png">
+    <img src="assets/tech-balls.gif" alt="Bouncing technology balls: C#, .NET, React, Next.js, TypeScript, C++, ESP32, SQL, Flutter, Python, Git, Kotlin and Arduino" width="100%">
+  </picture>
+</a>
 
----
+**[Grab, throw, and kick the tech balls in the live playground](https://faizannazir.github.io/faizannazir/#playground)**
 
-## 🚀 Open Source Focus
+| Area                    | Technologies                                      |
+| :---------------------- | :------------------------------------------------ |
+| Backend                 | C#, .NET, ASP.NET Core / MVC, REST APIs, SQL      |
+| Frontend                | React, Next.js, JavaScript, TypeScript, HTML, CSS |
+| Embedded & IoT          | C / C++, ESP32, STM32, ESP-IDF, FreeRTOS, Arduino |
+| Mobile & cross-platform | Flutter / Dart, Kotlin, Jetpack Compose           |
+| Tools & delivery        | Azure DevOps, CI/CD, Git, Python, llama.cpp       |
 
-### 🔥 ESP32OS (Active Project)
-> A lightweight operating system for ESP32 focused on modularity and performance.
+**AI engineering:** MCP servers and integrations, custom AI tools, local coding agents, and model workflows.
 
-- Task scheduling & system abstraction  
-- Designed for IoT & embedded developers  
-- Open for contributors  
+**AI-assisted development:** Codex, Claude Code, and Cursor.
 
-👉 https://github.com/faizannazir/Esp32OS  
+[View still artwork](assets/tech-balls.png) · [View still banner](assets/banner.png)
 
----
+## Selected projects
 
-## 🛠️ Tech Stack
+### [LocalCoder](https://github.com/faizannazir/localcoder)
 
-**Backend**
-- .NET Core, C#, ASP.NET MVC, REST APIs  
+A local AI coding agent for your terminal and editor. Run GGUF models through llama.cpp, search and edit repositories, run checks, and undo changes. Hardware-aware routing loads planner, coder, and reviewer models one at a time.
 
-**Frontend**
-- React, JavaScript, HTML, CSS  
+`TypeScript` `Local AI` `Developer tools`
 
-**Embedded / IoT**
-- ESP32, STM32, Arduino, Embedded C/C++  
+### [ESP32OS](https://github.com/faizannazir/Esp32OS)
 
-**Cross-Platform**
-- Flutter (Android, macOS, integrations)  
+An embedded operating environment built on ESP-IDF and FreeRTOS. A Linux-style shell brings task management, hardware diagnostics, networking, and an optional web dashboard to ESP32.
 
-**DevOps**
-- Azure, CI/CD, Git  
+`C` `ESP-IDF` `FreeRTOS` `IoT`
 
----
+### [Aether Launcher](https://github.com/faizannazir/Aether-Launcher)
 
-## 💡 What I Like Building
+A native Android launcher with a clean home screen, searchable app drawer, floating dock, customizable pages, and Android system integrations.
 
-- 🔗 Cross-platform integrations  
-- 🚀 Performance-critical applications  
-- 🔌 Embedded + software ecosystems  
-- 🧩 Developer tools & frameworks  
+`Kotlin` `Jetpack Compose` `Android`
 
----
-
-## 📂 Projects
-
-👉 Explore my work:  
-https://github.com/faizannazir?tab=repositories  
-
----
-
-## 🧲 Looking for Contributors
-
-I’m actively looking for developers interested in:
-
-- Embedded systems  
-- ESP32 development  
-
-👉 Start here:  
-https://github.com/faizannazir/Esp32OS/issues  
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:
-- Open source collaboration  
-- System design discussions  
-- Embedded + software projects  
+[All repositories](https://github.com/faizannazir?tab=repositories) · [Career, projects & playground](https://faizannazir.github.io/faizannazir/)
 
 ---
 
 <div align="center">
 
-⚡ *Building systems that scale — from cloud to microcontrollers*
+**From an API response to a GPIO pin. I like building the connection.**
+
+[Start a conversation](mailto:faizannazir289@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/faizannazir/)
 
 </div>
